@@ -54,3 +54,5 @@ notebooks/   → Jupyter notebook (`Bike_rentals_Github.ipynb`)
 output/      → charts/graphs (optional)
 README.md    → you're reading it
 requirements.txt → install dependencies
+
+Built by [Jiri](https://github.com/jiribx), product manager passionate about making data-driven decisions easy and accessible.
