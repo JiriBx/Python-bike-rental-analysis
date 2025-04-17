@@ -49,9 +49,9 @@ Analyze historical rental data to uncover:
 ## 📁 Repository Structure
 
 ```plaintext
-data/        → sample bike rental data (optional)
+data/        → bike rental data 
 notebooks/   → Jupyter notebook (`Bike_rentals_Github.ipynb`)
-output/      → charts/graphs (optional)
+output/      → charts/graphs/comments
 README.md    → you're reading it
 requirements.txt → install dependencies
 
