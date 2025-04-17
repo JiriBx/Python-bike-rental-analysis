@@ -55,4 +55,3 @@ output/      → charts/graphs/comments
 README.md    → you're reading it
 requirements.txt → install dependencies
 
-Built by [Jiri](https://github.com/jiribx), product manager passionate about making data-driven decisions easy and accessible.
