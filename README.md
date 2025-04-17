@@ -50,8 +50,7 @@ Analyze historical rental data to uncover:
 
 ```plaintext
 data/        → bike rental data 
-notebooks/   → Jupyter notebook (`Bike_rentals_Github.ipynb`)
-output/      → charts/graphs/comments
+notebooks/   → Jupyter notebook with charts/graphs/comments(`Bike_rentals_Github.ipynb`)
 README.md    → you're reading it
 requirements.txt → install dependencies
 
